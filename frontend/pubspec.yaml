@@ -1,0 +1,10 @@
+name: frontend
+description: Simple Dart web frontend for login demonstration.
+version: 0.1.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  http: ^1.1.0
+dev_dependencies:
+  build_runner: ^2.4.0
+  build_web_compilers: ^4.0.0
